@@ -1,0 +1,9 @@
+C:\Users\burns\OneDrive\Documentos\Desenvolvimento\Projetos\DesafioSquadra\DesafioClasses\bin\Debug\netstandard2.0\DesafioClasses.deps.json
+C:\Users\burns\OneDrive\Documentos\Desenvolvimento\Projetos\DesafioSquadra\DesafioClasses\bin\Debug\netstandard2.0\DesafioClasses.dll
+C:\Users\burns\OneDrive\Documentos\Desenvolvimento\Projetos\DesafioSquadra\DesafioClasses\bin\Debug\netstandard2.0\DesafioClasses.pdb
+C:\Users\burns\OneDrive\Documentos\Desenvolvimento\Projetos\DesafioSquadra\DesafioClasses\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\Users\burns\OneDrive\Documentos\Desenvolvimento\Projetos\DesafioSquadra\DesafioClasses\obj\Debug\netstandard2.0\DesafioClasses.AssemblyInfoInputs.cache
+C:\Users\burns\OneDrive\Documentos\Desenvolvimento\Projetos\DesafioSquadra\DesafioClasses\obj\Debug\netstandard2.0\DesafioClasses.AssemblyInfo.cs
+C:\Users\burns\OneDrive\Documentos\Desenvolvimento\Projetos\DesafioSquadra\DesafioClasses\obj\Debug\netstandard2.0\DesafioClasses.csproj.CoreCompileInputs.cache
+C:\Users\burns\OneDrive\Documentos\Desenvolvimento\Projetos\DesafioSquadra\DesafioClasses\obj\Debug\netstandard2.0\DesafioClasses.dll
+C:\Users\burns\OneDrive\Documentos\Desenvolvimento\Projetos\DesafioSquadra\DesafioClasses\obj\Debug\netstandard2.0\DesafioClasses.pdb
